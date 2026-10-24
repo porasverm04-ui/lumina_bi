@@ -1,0 +1,4 @@
+venv/
+# Ignore SQLite databases
+lumina_enterprise.db
+*.db
